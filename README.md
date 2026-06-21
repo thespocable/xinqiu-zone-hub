@@ -1,2 +1,14 @@
 # xinqiu-zone-hub
-HTML page archive and documentation
+
+资料页面发布仓库
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
